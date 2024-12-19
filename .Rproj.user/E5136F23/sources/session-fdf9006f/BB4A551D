@@ -1,0 +1,26 @@
+{
+    "id": "BB4A551D",
+    "path": "~/Atlas_Socioeconomico/Scripts_AtlasDMQ/Scripts_Socioeconómico/NBI_nac.R",
+    "project_path": "Scripts_Socioeconómico/NBI_nac.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1734537958711.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "423,0",
+        "scrollLine": "415"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1734545551,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1734545551431,
+    "read_only": false,
+    "read_only_alternatives": []
+}

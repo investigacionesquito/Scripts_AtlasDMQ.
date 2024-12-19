@@ -1,0 +1,5 @@
+Atlas Socioeconómico del DMQ
+
+Este archivo contiene los enlaces de descarga de las bases de datos del DMQ correspondientes a población, hogar, vivienda y emigración de los Censos de Población y Vivienda 2010 y 2022. Estas bases de datos han sido procesadas mediante un riguroso procedimiento de integración, limpieza y depuración. Además, incluyen los datos necesarios para la ejecución de scripts de programación utilizados en el cálculo de diversos indicadores. Este archivo contiene tambien los indicadores demográficos generados en RADATAM, los cuales han sido integrados a la geodatabase de demografía para su posterior análisis y visualización.
+
+Enlace de descarga: https://mdmqdireccioninformatica-my.sharepoint.com/personal/jefferson_revelog_quito_gob_ec/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjefferson%5Frevelog%5Fquito%5Fgob%5Fec%2FDocuments%2FINSTITUTO%20DE%20INVESTIGACIONES%20DE%20LA%20CIUDAD%2F2024%2F00%5FBASES%5FDE%5FDATOS%2F01%5FATLAS%5FSOCIOECON%C3%93MICO%2F01%5FGITHUB&ga=1
